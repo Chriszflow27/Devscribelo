@@ -1,8 +1,8 @@
 {
-  "name": "astroplate",
+  "name": "Devscribelo",
   "version": "3.4.5",
-  "description": "Astro and Tailwindcss boilerplate",
-  "author": "zeon.studio",
+  "description": "Pagina Web Devscribelo",
+  "author": "devscribelo",
   "license": "MIT",
   "packageManager": "yarn@1.22.19",
   "scripts": {

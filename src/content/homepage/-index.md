@@ -1,7 +1,7 @@
 ---
 banner:
   title: 'De<span class="bg-green-700 text-white rounded px-1">v</span>scribelo'
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  content: "Devscribelo is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
   image: "/images/bannerdevs.png"
 
   social:
@@ -33,7 +33,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "https://github.com/Chriszflow27/Devscribelo"
 
   - title: "Como trabajamos en Devscribelo"
     image: "/images/service-1.png"

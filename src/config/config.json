@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "Devscribelo",
+    "base_url": "https://devscribelo.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/devscribelo.png",
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Devscribelo <strong>&copy;</strong> Todos los derechos reservados. Diseñado por <strong><a href=\"https://devscribelo.com\">Devscribelo</a></strong>"
+    "copyright": "Devscribelo <strong>&copy;</strong> Todos los derechos reservados. Diseñado por <strong>Devscribelo</strong>"
   },
 
   "navigation_button": {
