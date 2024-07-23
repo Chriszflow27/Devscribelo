@@ -4,7 +4,7 @@
 
 ## ¿Qué es Devscribelo?
 
-Astroplate es una plantilla de inicio gratuita construida con Astro y TailwindCSS, proporcionando todo lo necesario para comenzar tu proyecto Astro y ahorrar tiempo valioso.
+Devscribelo es una página construida con Astro y TailwindCSS.
 
 ## Características
 
@@ -27,8 +27,6 @@ En Devscribelo, ofrecemos soluciones innovadoras para el desarrollo web con una 
 - **Adaptabilidad total:** Nuestras soluciones son completamente responsivas y personalizables para cualquier dispositivo.
 - **Optimización integral:** Enfocados en SEO y rendimiento para garantizar la mejor experiencia de usuario y visibilidad en motores de búsqueda.
 
-[Get Started Now](https://github.com/zeon-studio/astroplate)
-
 ### Como trabajamos en Devscribelo
 ![Como trabajamos en Devscribelo](./public/images/bannerdevs.png)
 
@@ -47,19 +45,19 @@ Para instalar y configurar este proyecto, sigue estos pasos:
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/zeon-studio/astroplate.git
+    git clone https://github.com/chriszflow27/devscribelo.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd astroplate
+    cd devscribelo
     ```
 3. Instala las dependencias:
     ```sh
-    npm install
+    npm install yarn
     ```
 4. Inicia el servidor de desarrollo:
     ```sh
-    npm run dev
+    yarn dev
     ```
 
 ## Uso

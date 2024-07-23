@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "Devscribelo",
+    "base_url": "https://devscribelo.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/devscribelo.png",
