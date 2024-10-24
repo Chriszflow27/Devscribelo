@@ -1,5 +1,5 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Landing Page para Recuerdos Eternos"
 meta_title: ""
 description: "this is meta description"
 date: 2022-20-08T05:00:00Z
@@ -10,14 +10,22 @@ tags: ["software", "tailwind","Astro"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+<div class="text-justify">
+  Desarrollo de una landing page para "Recuerdos Eternos", diseñada para recordar a seres queridos fallecidos. Incluye secciones de biografía, álbum de fotos, canciones, mensajes de recuerdo y videos, ofreciendo un espacio íntimo para preservar y compartir memorias.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+  ## Solución Digital para Tributos
 
-## Creative Design
+  Este proyecto consistió en el desarrollo de una landing page personalizada para la empresa "Recuerdos Eternos", diseñada para honrar y recordar a los seres queridos que han fallecido. La plataforma ofrece un espacio donde las familias y amigos pueden preservar y compartir recuerdos a través de los siguientes apartados:
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+  - Biografía: Un espacio dedicado para narrar la historia y legado del ser querido.
+  - Álbum de Fotos: Un apartado donde se pueden visualizar las imágenes más significativas de la vida del homenajeado.
+  - Canciones de Recuerdos: Sección para compartir canciones que evocan recuerdos especiales.
+  - Mensajes de Recuerdos: Un muro donde los amigos y familiares pueden dejar mensajes de despedida o recuerdos escritos.
+  - Álbum de Videos: Un lugar donde se pueden subir y compartir videos en memoria del ser querido.
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+  El proyecto refleja la esencia de "Recuerdos Eternos", proporcionando un espacio digital íntimo y emotivo, que conecta a las personas en sus momentos más sensibles.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+  > Donde los recuerdos trascienden el tiempo, brindando un lugar especial para honrar la vida y mantener presentes a quienes siempre llevaremos en el corazón!
+
+  Con "Recuerdos Eternos", creamos una plataforma donde los momentos y memorias importantes nunca se pierden. Este proyecto es un testimonio de cómo la tecnología puede convertirse en un puente entre el pasado y el presente, permitiendo que los recuerdos de quienes amamos permanezcan vivos, acompañándonos para siempre.
+</div>
