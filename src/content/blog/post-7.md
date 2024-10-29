@@ -17,7 +17,7 @@ En la que se fomenta la lectura compartida y la sostenibilidad, conectando a lec
 ## Apartados principales
 
 - Agendar: Una sección donde se puede agendar una cita para realizar el intercambio de libros.
-- Servicios: Una apartado en el cual se muestran de forma detallada todos los servicios que ofrece BookSwap360 para la realizaciòn de intercambio de libros.
+- Servicios: Una apartado en el cual se muestran de forma detallada todos los servicios que ofrece BookSwap360 para la realizaciòn de intercambio de libros. 
 
 > La digitalización eficiente es clave para el manejo responsable de los recursos. En devscribelo, creamos sistemas web que simplifican procesos y promueven una gestión más ágil y transparente!
 
