@@ -17,8 +17,8 @@ Es un lugar con buenas vistas y buen hambiente para el descanzo eterno de sus se
 ## Apartados principales
 
 - Acerca de: Una sección donde se precenta datos y funciones que han realizados.
-- Agendar: Una sección donde se puede agendar una cita para realizar el intercambio de libros.
-- Servicios: Una apartado en el cual se muestran de forma detallada todos los servicios que ofrece BookSwap360 para la realizaciòn de intercambio de libros.
+- Servicios: Una apartado en el cual se muestran de forma detallada todos los servicios que ofrece jardines de la paz para el proceso funerario.
+- Nuestro Espacio: Una sección donde se puede visualizar las instalaciones , para que puedan ver donde pueden realizar el entierro de su difunto.
 
 > La digitalización eficiente es clave para el manejo responsable de los recursos. En devscribelo, creamos sistemas web que simplifican procesos y promueven una gestión más ágil y transparente!
 
