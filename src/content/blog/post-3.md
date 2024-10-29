@@ -1,5 +1,5 @@
 ---
-title: "Jardines de la Paz"
+title: "How to build an Application with modern Technology"
 meta_title: ""
 description: "Su prevención de hoy será su tranquilidad de mañana"
 date: 2022-20-08T05:00:00Z
@@ -10,16 +10,14 @@ tags: ["software", "tailwind","Astro"]
 draft: false
 ---
 
-Pagina destinada a la asesoria para la compra de lugares de descanzo para los familiares.
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-Es un lugar con buenas vistas y buen hambiente para el descanzo eterno de sus seres queridos.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-## Apartados principales
+## Creative Design
 
-- Acerca de: Una sección donde se precenta datos y funciones que han realizados.
-- Agendar: Una sección donde se puede agendar una cita para realizar el intercambio de libros.
-- Servicios: Una apartado en el cual se muestran de forma detallada todos los servicios que ofrece BookSwap360 para la realizaciòn de intercambio de libros.
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-> La digitalización eficiente es clave para el manejo responsable de los recursos. En devscribelo, creamos sistemas web que simplifican procesos y promueven una gestión más ágil y transparente!
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-En devscribelo, creemos que la tecnología debe adaptarse a las necesidades de cada empresa. Con este sistema web, Jardines de la Paz podra alcanzar a mas familias en el asesoramiento en el proceso funerario de sus familiares!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!

@@ -3,7 +3,7 @@ title: "Sistema para Alto Chicama"
 meta_title: ""
 description: "this is meta description"
 date: 2024-10-21T05:00:00Z
-image: "/images/AltoChicamaSistema.png"
+image: "/images/IMAGEN5.png"
 categories: ["HTML","CSS","C#","SQL","JavaScript (JS)"]
 author: "Devscribelo"
 tags: ["Sistema Web", "SQL Server"]

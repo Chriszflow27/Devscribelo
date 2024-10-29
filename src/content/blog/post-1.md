@@ -1,5 +1,5 @@
 ---
-title: "Landing page para Alto Chicama"
+title: "Landing Page para Alto Chicama"
 meta_title: ""
 description: "this is meta description"
 date: 2024-07-20T05:00:00Z
