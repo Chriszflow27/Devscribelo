@@ -1,29 +1,66 @@
 ---
-title: "Landing Page para Don Jofax"
+title: "App Kotlin para Comunicación y Gestión Doctor-Paciente"
 meta_title: ""
 description: "this is meta description"
 date: 2024-07-08T05:00:00Z
 image: "/images/IMAGEN5.png"
-categories: ["Bootstrap", "HTML","CSS","JavaScript (JS)"]
+categories: ["Kotlin","Android Studio"]
 author: "Devscribelo"
-tags: ["software", "tailwind","Astro"]
+tags: ["software", "Android"]
 draft: false
 ---
 
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* Ratio 16:9 */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 640px) {
+  .video-container {
+    padding-bottom: 75%; /* Ajuste para móviles */
+  }
+}
+</style>
+
 <div class="text-justify">
-  Hemos desarrollado una landing page para Don Jofax, un restaurante de pollo a la brasa que también ofrece hamburguesas y servicio de delivery. Este proyecto refleja nuestra dedicación en DevScribelo para crear experiencias digitales personalizadas que conecten a las empresas con sus clientes.
+  Hemos desarrollado una aplicación en Kotlin que sirve como una herramienta integral para mejorar la comunicación entre doctores y pacientes. Este proyecto, realizado por DevScribelo, facilita una experiencia digital que optimiza la interacción y el seguimiento de los tratamientos médicos.
 
-  ## Don Jofax: Landing Page para Restaurante
+  ## Comunicación y Gestión Doctor-Paciente en Tiempo Real
 
-  Don Jofax es una plataforma diseñada para optimizar la presencia digital del restaurante de pollo a la brasa "Don Jofax". Esta landing page permite a los clientes conocer a fondo la oferta gastronómica del restaurante, desde sus especialidades en pollos y hamburguesas hasta sus promociones y servicios de delivery.
+  La aplicación crea un canal directo de comunicación entre doctores y pacientes para consultas rápidas, seguimiento de tratamientos y gestión de citas. La herramienta también incluye recordatorios personalizados creados por los pacientes, que los doctores pueden ver y usar para priorizar la atención según la urgencia de cada caso.
 
-  - Inicio: Presenta la historia y esencia de Don Jofax, con una bienvenida que destaca sus sabores y trayectoria.
-  - Servicios: Un apartado completo que muestra la variedad del menú, desde el pollo a la brasa hasta sus hamburguesas, e incluye detalles sobre su servicio de delivery.
-  - Promociones Semanales: Los usuarios pueden explorar promociones especiales y descuentos en comida, actualizadas semanalmente.
-  - Sobre Nosotros: Sección dedicada a la historia y misión del restaurante, brindando un acercamiento a la identidad y valores de Don Jofax.
-  - Contáctanos: Proporciona información clave como el mapa de ubicaciones, teléfonos de contacto, direcciones y horarios de atención para cada sucursal.
+  - Chat en Tiempo Real: Los doctores pueden chatear con sus pacientes, resolviendo dudas y ofreciendo orientación inmediata cuando sea necesario.
+  - Seguimiento de Tratamientos: La app permite un canal de comunicación continua que facilita a los doctores monitorear el avance y las necesidades de sus pacientes de forma eficiente.
+  - Recordatorios Personalizados: Los pacientes pueden crear recordatorios para sus citas y tareas de seguimiento, visibles para sus doctores, lo que facilita la organización y la priorización en la atención.
+  - Gestión de Citas y Atención: Con estos recordatorios, la app permite que el doctor pueda dar prioridad a ciertos pacientes según las necesidades o emergencias que se presenten.
 
-  > En DevScribelo, nos enorgullece haber desarrollado la landing page de Don Jofax, asegurando una plataforma que conecte a sus clientes con la auténtica experiencia culinaria que ofrece el restaurante!
+  <div class="video-container" style="display: flex; justify-content: center; margin: 2rem 0;">
+    <div style="border: 2px solid #3498db; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/wjnn7oV7IRE" 
+        title="Demo de la Aplicación Médica" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
 
-  En DevScribelo, estamos comprometidos con la creación de experiencias digitales que realzan la identidad de nuestros clientes. Con esta landing page, hemos ayudado a Don Jofax a mostrar su oferta de una manera accesible y atractiva, optimizando la interacción y el compromiso con su clientela.
+  > En DevScribelo, estamos comprometidos con la creación de soluciones digitales que responden a las necesidades de nuestros clientes. Esta app está diseñada para mejorar la calidad de la atención médica mediante una comunicación más cercana y accesible.
+
+  Con esta aplicación, DevScribelo se enorgullece de brindar una herramienta que apoya tanto a doctores como a pacientes, promoviendo un sistema de salud más organizado y centrado en el paciente.
 </div>

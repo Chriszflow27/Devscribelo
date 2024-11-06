@@ -13,20 +13,16 @@
       "url": "/authors"
     },
     {
-      "name": "Pages",
+      "name": "Descubre",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Clientes",
+          "name": "Portafolio",
           "url": "/blog"
         },
         {
-          "name": "Categories",
+          "name": "Categorías",
           "url": "/categories"
         },
         {

@@ -10,6 +10,30 @@ tags: ["Sistema Web", "SQL Server"]
 draft: false
 ---
 
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* Ratio 16:9 */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 640px) {
+  .video-container {
+    padding-bottom: 75%; /* Ajuste para móviles */
+  }
+}
+</style>
+
 En devscribelo, desarrollamos un sistema web completo para Alto Chicama Servicios Ambientales, diseñado para optimizar la gestión de sus operaciones diarias. Este sistema permite a la empresa gestionar de manera eficiente diferentes aspectos de su operación, simplificando procesos y garantizando el control de la información clave.
 
 ## Funcionalidades principales
@@ -20,6 +44,20 @@ En devscribelo, desarrollamos un sistema web completo para Alto Chicama Servicio
 - Generación de PDF: Una herramienta clave que permite a Alto Chicama generar documentos PDF personalizados sin la necesidad de usar Microsoft Office, facilitando la generación rápida de reportes.
 - Facturas: Sistema de gestión de facturas con opciones de creación, listado, modificación y eliminación (CRUD), ayudando a la empresa a tener un control exhaustivo de las transacciones.
 - Valorización: Permite a Alto Chicama monitorear las deudas de las empresas asociadas y transportistas. Esta sección cuenta con acceso diferenciado, de modo que tanto Alto Chicama como los transportistas pueden ingresar para revisar sus respectivas deudas y saldos.
+
+<div class="video-container" style="display: flex; justify-content: center; margin: 2rem 0;">
+  <div style="border: 2px solid #3498db; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <iframe 
+      width="560" 
+      height="315" 
+      src="https://www.youtube.com/embed/cMG7dfqAbsQ" 
+      title="Demo del Sistema Alto Chicama" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 > La digitalización eficiente es clave para el manejo responsable de los recursos. En devscribelo, creamos sistemas web que simplifican procesos y promueven una gestión más ágil y transparente!
 
