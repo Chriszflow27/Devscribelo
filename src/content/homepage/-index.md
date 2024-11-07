@@ -1,7 +1,7 @@
 ---
 banner:
   title: 'De<span class="bg-green-700 text-white rounded px-1">v</span>scribelo'
-  content: "Bienvenido a DevScribe, donde transformamos ideas en soluciones tecnológicas que impulsan el futuro. Innovamos para crear experiencias digitales eficientes y personalizadas. ¡Tu desarrollo tecnológico comienza aquí!"
+  content: "Bienvenido a DevScribelo, donde transformamos ideas en soluciones tecnológicas que impulsan el futuro. Innovamos para crear experiencias digitales eficientes y personalizadas. ¡Tu desarrollo tecnológico comienza aquí!"
   image: "/images/bannerdevs.png"
 
   social:
