@@ -1,7 +1,7 @@
 ---
 banner:
   title: 'De<span class="bg-green-700 text-white rounded px-1">v</span>scribelo'
-  content: "Devscribelo is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  content: "Bienvenido a DevScribe, donde transformamos ideas en soluciones tecnológicas que impulsan el futuro. Innovamos para crear experiencias digitales eficientes y personalizadas. ¡Tu desarrollo tecnológico comienza aquí!"
   image: "/images/bannerdevs.png"
 
   social:
@@ -32,8 +32,8 @@ features:
       - "Optimización integral: Enfocados en SEO y rendimiento para garantizar la mejor experiencia de usuario y visibilidad en motores de búsqueda."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/Chriszflow27/Devscribelo"
+      label: "Comienza ahora"
+      link: "https://wa.link/qs34x5"
 
   - title: "Como trabajamos en Devscribelo"
     image: "/images/service-1.png"

@@ -8,7 +8,7 @@
     {
       "name": "instagram",
       "icon": "FaInstagram",
-      "link": "https://twitter.com/"
+      "link": "#"
     },
     {
       "name": "github",
@@ -18,7 +18,7 @@
     {
       "name": "whatsapp",
       "icon": "FaWhatsapp",
-      "link": "https://www.linkedin.com/"
+      "link": "https://wa.link/qs34x5"
     }
   ]
 }
