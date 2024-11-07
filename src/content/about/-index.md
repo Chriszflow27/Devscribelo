@@ -8,14 +8,9 @@ draft: false
 
 <style>
 .content-wrapper {
-  text-align: left;
+  text-align: justify;
   max-width: 900px;
   margin: 0 auto;
-}
-
-.text-justify {
-  text-align: justify;
-  line-height: 1.8;
 }
 
 .mission-content {
@@ -24,11 +19,10 @@ draft: false
 </style>
 
 <div class="content-wrapper">
-  <div class="text-justify">
-    En Devscribelo, transformamos tus ideas en realidades digitales impresionantes. Ayudamos a impulsar tu negocio con soluciones web personalizadas que capturan la esencia de tu marca y mejoran tu presencia en línea. Con nuestro compromiso con la calidad e innovación, tu éxito digital está garantizado.
-  </div>
 
-  1. **Transformar Ideas en Realidades Digitales**
+  En Devscribelo, transformamos tus ideas en realidades digitales impresionantes. Ayudamos a impulsar tu negocio con soluciones web personalizadas que capturan la esencia de tu marca y mejoran tu presencia en línea. Con nuestro compromiso con la calidad e innovación, tu éxito digital está garantizado. 
+
+1. **Transformar Ideas en Realidades Digitales**
    - Desarrollamos soluciones digitales innovadoras que potencien el éxito de nuestros clientes.
    - Creamos experiencias web únicas y funcionales que destacan en el competitivo mercado digital.
 
@@ -41,7 +35,6 @@ draft: false
 
   ## Nuestra Visión
 
-  <div class="text-justify">
-    Nuestra visión en Devscribelo es ser reconocidos como la empresa líder en desarrollo web, destacándonos por nuestra calidad, creatividad y compromiso con los clientes. Aspiramos a ser un referente en el mercado digital, proporcionando soluciones innovadoras y efectivas que ayuden a nuestros clientes a alcanzar sus objetivos y superar sus desafíos. Nos esforzamos por mantenernos a la vanguardia de las tendencias tecnológicas y del diseño, asegurándonos de que nuestras soluciones no solo sean modernas y estéticamente agradables, sino también funcionales y escalables. Buscamos establecer relaciones duraderas con nuestros clientes, basadas en la confianza, el respeto y el éxito mutuo.
-  </div>
+  Nuestra visión en Devscribelo es ser reconocidos como la empresa líder en desarrollo web, destacándonos por nuestra calidad, creatividad y compromiso con los clientes. Aspiramos a ser un referente en el mercado digital, proporcionando soluciones innovadoras y efectivas que ayuden a nuestros clientes a alcanzar sus objetivos y superar sus desafíos. Nos esforzamos por mantenernos a la vanguardia de las tendencias tecnológicas y del diseño, asegurándonos de que nuestras soluciones no solo sean modernas y estéticamente agradables, sino también funcionales y escalables. Buscamos establecer relaciones duraderas con nuestros clientes, basadas en la confianza, el respeto y el éxito mutuo.
+
 </div>
