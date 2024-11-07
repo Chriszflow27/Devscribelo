@@ -17,4 +17,4 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Desarrollador Full Stack con especialización en Backend, experto en tecnologías .NET y C#. Experiencia en el desarrollo de sistemas web completos utilizando frameworks como ASP.NET Core, Django y Astro. Dominio de lenguajes adicionales como Python y C++, y sólido manejo de bases de datos SQL Server y MySQL. Aunque cursando Ingeniería Informática, combino conocimientos académicos con experiencia práctica en el desarrollo de soluciones empresariales. Mi enfoque principal es el desarrollo backend, permitiéndome aportar una visión sólida en la arquitectura y desarrollo de aplicaciones robustas.
