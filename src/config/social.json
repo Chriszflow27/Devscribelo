@@ -8,13 +8,9 @@
     {
       "name": "instagram",
       "icon": "FaInstagram",
-      "link": "#"
+      "link": "https://www.instagram.com/devscribelo/?igsh=MXZ5aXF1dHlnamdlZg%3D%3D"
     },
-    {
-      "name": "github",
-      "icon": "FaGithub",
-      "link": "https://www.github.com/"
-    },
+    
     {
       "name": "whatsapp",
       "icon": "FaWhatsapp",
