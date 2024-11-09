@@ -4,35 +4,11 @@ meta_title: ""
 description: "this is meta description"
 date: 2024-07-08T05:00:00Z
 image: "/images/IMAGEN5.png"
-categories: ["Kotlin","Android Studio"]
+categories: ["Kotlin","Android Studio","FireBase","AppMovil"]
 author: "Devscribelo"
 tags: ["software", "Android"]
 draft: false
 ---
-
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* Ratio 16:9 */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-@media (max-width: 640px) {
-  .video-container {
-    padding-bottom: 75%; /* Ajuste para móviles */
-  }
-}
-</style>
 
 <div class="text-justify">
   Hemos desarrollado una aplicación en Kotlin que sirve como una herramienta integral para mejorar la comunicación entre doctores y pacientes. Este proyecto, realizado por DevScribelo, facilita una experiencia digital que optimiza la interacción y el seguimiento de los tratamientos médicos.
@@ -64,3 +40,27 @@ draft: false
 
   Con esta aplicación, DevScribelo se enorgullece de brindar una herramienta que apoya tanto a doctores como a pacientes, promoviendo un sistema de salud más organizado y centrado en el paciente.
 </div>
+
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* Ratio 16:9 */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 640px) {
+  .video-container {
+    padding-bottom: 75%; /* Ajuste para móviles */
+  }
+}
+</style>

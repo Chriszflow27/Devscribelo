@@ -1,5 +1,5 @@
 ---
-title: "Landing Page para Don Jofax"
+title: "Landing Page para La Empresa Don Jofax"
 meta_title: ""
 description: "this is meta description"
 date: 2024-07-08T05:00:00Z
@@ -26,4 +26,6 @@ draft: false
   > En DevScribelo, nos enorgullece haber desarrollado la landing page de Don Jofax, asegurando una plataforma que conecte a sus clientes con la auténtica experiencia culinaria que ofrece el restaurante!
 
   En DevScribelo, estamos comprometidos con la creación de experiencias digitales que realzan la identidad de nuestros clientes. Con esta landing page, hemos ayudado a Don Jofax a mostrar su oferta de una manera accesible y atractiva, optimizando la interacción y el compromiso con su clientela.
+
+  Link: https://donjofax.netlify.app/
 </div>

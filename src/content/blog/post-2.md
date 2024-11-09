@@ -10,29 +10,7 @@ tags: ["Sistema Web", "SQL Server"]
 draft: false
 ---
 
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /* Ratio 16:9 */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-}
 
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-@media (max-width: 640px) {
-  .video-container {
-    padding-bottom: 75%; /* Ajuste para móviles */
-  }
-}
-</style>
 
 En devscribelo, desarrollamos un sistema web completo para Alto Chicama Servicios Ambientales, diseñado para optimizar la gestión de sus operaciones diarias. Este sistema permite a la empresa gestionar de manera eficiente diferentes aspectos de su operación, simplificando procesos y garantizando el control de la información clave.
 
@@ -62,3 +40,27 @@ En devscribelo, desarrollamos un sistema web completo para Alto Chicama Servicio
 > La digitalización eficiente es clave para el manejo responsable de los recursos. En devscribelo, creamos sistemas web que simplifican procesos y promueven una gestión más ágil y transparente!
 
 En devscribelo, creemos que la tecnología debe adaptarse a las necesidades de cada empresa. Con este sistema web, Alto Chicama optimiza su operación diaria, asegurando un manejo eficiente y sostenible de sus procesos!
+
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* Ratio 16:9 */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+@media (max-width: 640px) {
+  .video-container {
+    padding-bottom: 75%; /* Ajuste para móviles */
+  }
+}
+</style>
